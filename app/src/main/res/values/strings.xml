@@ -3,6 +3,7 @@
     <string name="button_true">Prawda</string>
     <string name="button_false">Fałsz</string>
     <string name="button_next">Następne</string>
+    <string name="button_tip">Podpowiedź</string>
 
     <string name="q_activity">Activity jest jednym z komponentów aplikacji Android</string>
     <string name="q_version">Android 8 jest najnowszą wersją systemu Android</string>
@@ -12,4 +13,6 @@
 
     <string name="correct_answer">Brawo!</string>
     <string name="incorrect_answer">Spróbuj jeszcze raz!</string>
+
+    <string name="answer_was_shown">Odpowiedź była już wyświetlona!</string>
 </resources>
